@@ -233,6 +233,14 @@ your side inside the bear:
 If your underlying tool generates a corrected file, the class automatically
 generates patches for the changes made and yields results accordingly.
 
+If the Executable Uses a Different Output Format
+------------------------------------------------
+
+For this case ``@linter`` allows you to specify an own parsing/processing
+behaviour. Refer to the "**Custom Processing Functions with**
+``process_output``" section inside
+:doc:`Advanced Feature Reference<Linter_Bears_Advanced>`.
+
 Adding Settings to our Bear
 ---------------------------
 
@@ -386,5 +394,6 @@ Congratulations!
 Where to Find More...
 ---------------------
 
-If you need more information about the ``@linter`` decorator, refer to the API
+If you need more information about the ``@linter`` decorator, refer to the
+:doc:`Advanced Feature Reference<Linter_Bears_Advanced>` or the API
 documentation.
