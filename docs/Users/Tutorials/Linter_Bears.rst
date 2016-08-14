@@ -387,4 +387,4 @@ Where to Find More...
 ---------------------
 
 If you need more information about the ``@linter`` decorator, refer to the API
-documentation. It's more versatile than described in this little tutorial.
+documentation.
