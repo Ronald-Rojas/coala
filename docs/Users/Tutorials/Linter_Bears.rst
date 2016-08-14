@@ -219,7 +219,7 @@ Normally, providing a severity-map is not needed, as *coala* has a default
 severity-map which recognizes many common words used for severities. Check out
 the API documentation for keywords supported!
 
-Suggest corrections using the ``corrected`` Output Format
+Suggest Corrections Using the ``corrected`` Output Format
 ---------------------------------------------------------
 
 This output format is very simple to use and doesn't require further setup from
